@@ -1,0 +1,15 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+
+.nin-color {
+  background-color: #0071ce !important;
+  color: #ffffff;
+}
+
+.nin-color .navbar-burger {
+  color: #ffffff;
+}
+
+.hero.is-info {
+  background-color: #0071ce !important;
+}
